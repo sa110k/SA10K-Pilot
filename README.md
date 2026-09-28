@@ -76,7 +76,7 @@ feasibility for nationwide scale-up toward a 100K national population genome pro
 ## Follow the Program
 
 - Star and Watch this repository for updates
-- Subscribe to releases: `https://github.com/sa110k/sa10k-pilot/releases.atom`
+- Subscribe to releases: `in progress`
 
 ## Contact
 
