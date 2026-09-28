@@ -1,5 +1,5 @@
 # SA110K-HGP Pilot: South African 110,000 Human Genome Program (Pilot Phase)
-
+![SA110K Human Genome Program](assets/sa110k-banner.png)
 The **South African 110,000 Human Genome Program (SA110K-HGP)** is a national
 initiative led by the **South African Medical Research Council (SAMRC)** in
 partnership with the **Department of Science, Technology, and Innovation (DSTI)**.
