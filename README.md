@@ -8,7 +8,7 @@ This repository hosts the public-facing resources for the **pilot phase**, which
 will sequence **10,000 whole genomes at 30x coverage over two years** from
 existing longitudinal patient cohorts across South Africa.
 
-**Website:** _Construction in progress_
+**Website:** `Construction in progress`
 ---
 
 ## About the Pilot
