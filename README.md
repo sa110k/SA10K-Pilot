@@ -13,12 +13,12 @@ existing longitudinal patient cohorts across South Africa.
 
 ## About the Pilot
 
-The pilot is not only a sequencing exercise — it aims to build a **clinical
+The pilot will not blindly sequence the genomes, instead, it aims to build a **clinical
 genomics ecosystem** for South Africa. By embedding whole genome sequencing (WGS)
 into existing clinical studies and trials, the pilot will test how genomic data
 can improve care and research in African populations, and will validate
 protocols, establish cost structures, optimise workflows, and demonstrate
-feasibility for nationwide scale-up toward a national population genome program.
+feasibility for nationwide scale-up toward a 100K national population genome program.
 
 ## Objectives
 
@@ -80,7 +80,7 @@ feasibility for nationwide scale-up toward a national population genome program.
 
 ## Contact
 
-**Rizwana Mia** — Senior Program Manager, South African 110K Human Genome Program
+**Nganea Nangammbi** — Project Manager, South African 110K Human Genome Program
 Email: 10K-Genome_Pilot@mrc.ac.za
 
 Issued by the SAMRC in partnership with the DSTI.
